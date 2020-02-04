@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Faith Elikirmawi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A place for Developers to post documentation for NHS login."
+  location         : "Leeds, UK"
   email            :
   links:
     - label: "Email"
