@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Developer Support
+title: GP Credentials
 ---
 
  ## Using NHS login to create or retrieve GP credentials
