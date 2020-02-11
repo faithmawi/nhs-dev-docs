@@ -5,6 +5,8 @@ A place to reference, use and contribute to.
 
 # A quick reference guide:
 
+How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
+
 ## Viewing documents                                                                                                            
 
 To view the official NHS login documentation page, click [here](https://faithmawi.github.io/).   
@@ -16,11 +18,6 @@ This would be best for those of you who are viewing documentation and would like
 To view the files within this repository, click on the **src** file and then reference the below instructions.    
 
 This would be best for those of you wishing to edit or add your own contributions to these documents.                        
-
-## A quick reference guide
-
-
-How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
 
 ## First steps 
 
