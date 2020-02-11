@@ -50,6 +50,15 @@ Making sure your document contains this at the very top means that your contribu
 
 -Or click **Cancel** if you wish to discard your changes 
 
+## Adding links
+
+When adding links, the correct format is as follows:
+
+```
+[Name of link](www.linkgoeshere.com)
+
+```
+
 ## Basic Text Styling Tips
 
 | Style         | How To                                  |
