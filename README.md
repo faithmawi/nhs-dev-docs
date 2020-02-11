@@ -1,8 +1,9 @@
 
-## NHS login Developer's Docs and how to use them:
+# NHS login Developer's Docs
 
 A place to reference, use and contribute to.
 
+# A quick reference guide:
 
 ## Viewing documents                                                                                                            
 
@@ -57,4 +58,4 @@ Making sure your document contains this at the very top means that your contribu
 |Bold           | ** Double asterix around text **        |
 |Italics | * Single asterix around text *                 |
 |List | - Before each item|
-|Numbered list | 1. 2. 3. etc. Before each item |
+|Numbered list | 1. 2. 3. etc. Before each item           |
