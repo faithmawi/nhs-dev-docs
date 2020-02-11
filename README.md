@@ -18,7 +18,7 @@ How to add your own pages, files and contrbutions to this document and a few bas
 
 1. Make sure before you begin writing your document, that you copy and paste the following block of text to the very top of your document. 
 
-2. Make sure that where it states "Your title", you change it to whatever you would like your title to be.
+2. Make sure that where it states **"Your title"**, you change it to whatever you would like your title to be.
 
 ```
 ---
@@ -29,6 +29,14 @@ title: Your title
 ```
 
 Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
+
+## Editing an existing document
+
+-When you click on the file, there should be an edit button in the top right of the document
+
+-When you're finished with your changes, make sure you click **Comit changes**
+
+-Or click **Cancel** if you wish to discard your changes 
 
 ## Basic Text Styling Tips
 
