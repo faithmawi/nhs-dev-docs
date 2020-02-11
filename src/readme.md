@@ -27,7 +27,6 @@ title: Your title
 
 <br>
 
-test
 
 **Note:** Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
 
