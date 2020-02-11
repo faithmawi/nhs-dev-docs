@@ -6,8 +6,8 @@ module.exports = function(config) {
   config.addPlugin(syntaxHighlight);
   // pass some assets right through
   config.addPassthroughCopy("./src/site/images");
-  config.addPassthroughCopy("./src/static/css");
-  config.addPassthroughCopy("./src/static/js");
+  config.addPassthroughCopy("./src/css");
+  config.addPassthroughCopy("./src/js");
   return {
     dir: {
       input: "src/",
