@@ -1,9 +1,8 @@
 
-## NHS login Developer's Docs
+## NHS login Developer's Docs and how to use them:
 
 A place to reference, use and contribute to.
 
-## How to use
 
 ## Viewing documents                                                                                                            
 
