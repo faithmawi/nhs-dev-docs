@@ -26,7 +26,7 @@ title: Your title
 2. Make sure that where it states **"Your title"**, you change it to whatever you would like your title to be.
 
 <br>
-
+t
 **Note:** Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
 
 ## Basic Text Styling Tips
