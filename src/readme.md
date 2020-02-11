@@ -33,7 +33,7 @@ title: Your title
 ## Basic Text Styling Tips
 
 | Style         | How To                                  |
-| ------------- |:-------------:                          |
+|:-------------:|:-------------:                          |
 |Heading        | ## Two hashes before text               |
 |Bold           | ** Double asterix around text **        |
 |Italics        | * Single asterix around text *          |
