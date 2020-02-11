@@ -21,7 +21,7 @@ This would be best for those of you wishing to edit or add your own contribution
 
 ## First steps 
 
-1. Click on the **src** file
+1. Click on the **src** file at the top right of the page
 2. Click the **"Create new file" button** 
 3. Give your file an appropriate making sure to end this name with **.md**
 
@@ -45,7 +45,7 @@ Making sure your document contains this at the very top means that your contribu
 
 -When you click on the file, there should be an edit button in the top right of the document
 
--When you're finished with your changes, make sure you click **Comit changes**
+-When you're finished with your changes, make sure you click **Commit changes**
 
 -Or click **Cancel** if you wish to discard your changes 
 
