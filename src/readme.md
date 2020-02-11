@@ -13,9 +13,7 @@ title: A quick reference guide
 
 ## Before you start writing
 
-1. Make sure before you begin writing your document, that you copy and paste the following block of text to the very top of your document. 
-
-2. Make sure that where it states "Your title", you change it to whatever you would like your title to be.
+1. Copy and paste the following block of text to the **top** of your document. 
 
 ```
 ---
@@ -25,7 +23,12 @@ title: Your title
 
 ```
 
-Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
+2. Make sure that where it states **"Your title"**, you change it to whatever you would like your title to be.
+
+<br>
+
+
+**Note:** Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
 
 ## Basic Text Styling Tips
 
@@ -33,6 +36,6 @@ Making sure your document contains this at the very top means that your contribu
 | ------------- |:-------------:                          |
 |Heading        | ## Two hashes before text               |
 |Bold           | ** Double asterix around text **        |
-|Italics | * Single asterix around text *                 |
-|List | - Before each item|
-|Numbered list | 1. 2. 3. etc. Before each item |
+|Italics        | * Single asterix around text *          |
+|List           | - Before each item                      |
+|Numbered list  | 1. 2. 3. etc. Before each item          |
