@@ -9,7 +9,7 @@ A place to reference, use and contribute to.
 |-----------------------------------------------------------------------------------------------------------------------------|
 |To view the official NHS login documentation page, click [here](https://faithmawi.github.io/).                               |
 |This would be best for those of you who are viewing documentation and would like to view it in an easily navigatable format. |
-|                                                                                                                             |
+
 |Editing or Adding documents                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------|
 |To view the files within this repository, click on the **src** file and then reference the below instructions.               |
