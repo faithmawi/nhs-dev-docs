@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: External Interface Specification (EIS) 
+title: External Interface Specification 
 ---
 [Click here](https://github.com/nhsconnect/nhslogin/blob/master/NHS%20login%20-%20Interface%20Specification%20-%20Federation%20v1.8.docx?raw=true) to download the full  documentation.
 ## The purpose of this document
@@ -20,8 +20,6 @@ This document defines the interfaces implemented by the Platform and describes t
 |3rd Party Suppliers integrating with the NHS Digital NHS login Platform|
 
 
-
-***
 ## Want to edit this page?
 1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/interface-spec-doc.md) 
 2. Then click the edit button in the top right of the document

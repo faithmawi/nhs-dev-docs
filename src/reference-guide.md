@@ -6,10 +6,10 @@ title: A quick reference guide
  How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
 
 ## First steps 
-
-1. Click on the **src** file
-2. Click the **"Create new file" button** at the top right of the page
-3. Give your file an appropriate making sure to end this name with **.md**
+1. Click [here](https://github.com/faithmawi/nhs-dev-docs) 
+2. Then click on the **src** file
+3. Click the **"Create new file" button** at the top right of the page
+4. Give your file an appropriate making sure to end this name with **.md**
 
 ## Before you start writing
 
@@ -49,6 +49,6 @@ When adding links, the correct format is as follows:
 
 ***
 ## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/readme.md) 
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/reference-guide.md) 
 2. Then click the edit button in the top right of the document
 3. Make sure you click **Commit changes** when you're done
