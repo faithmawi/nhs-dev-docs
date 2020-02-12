@@ -8,7 +8,7 @@ title: A quick reference guide
 ## First steps 
 
 1. Click on the **src** file
-2. Click the **"Create new file" button** 
+2. Click the **"Create new file" button** at the top right of the page
 3. Give your file an appropriate making sure to end this name with **.md**
 
 ## Before you start writing
@@ -26,9 +26,17 @@ title: Your title
 2. Make sure that where it states **"Your title"**, you change it to whatever you would like your title to be.
 
 <br>
-t
+
 **Note:** Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
 
+## Adding links
+
+When adding links, the correct format is as follows:
+```
+[Name of link](www.linkgoeshere.com)
+
+```
+***
 ## Basic Text Styling Tips
 
 | Style         | How To                                  |
@@ -38,3 +46,9 @@ t
 |Italics        | * Single asterix around text *          |
 |List           | - Before each item                      |
 |Numbered list  | 1. 2. 3. etc. Before each item          |
+
+***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/readme.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

@@ -49,3 +49,9 @@ Online ID check with video selfie
  Do not use any other personal information when completing registration. This includes NHS number and ID photo - take a picture of anything you like, within reason!
 
  We don’t tend to approve new registrations in this environment. If you need us to do this please get in touch via slack - see below for joining info.
+
+ ***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/intergrating-to-sandpit.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

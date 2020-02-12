@@ -21,3 +21,8 @@ This document defines the interfaces implemented by the Platform and describes t
 
 
 
+***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/interface-spec-doc.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

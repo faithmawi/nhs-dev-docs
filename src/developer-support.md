@@ -21,3 +21,8 @@ title: Developer Support
 
  You should now have your key pair. Only send the contents of public_key.pem file when requesting access to a new environment.
 
+***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/developer-support.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

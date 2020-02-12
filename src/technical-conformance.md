@@ -29,3 +29,9 @@ title: Technical Conformancey
 
  ## Testing FIDO UAF flow
  Please get in touch if you'd like to add FIDO UAF (TouchID etc.) to your app.
+
+ ***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/technical-confomance.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

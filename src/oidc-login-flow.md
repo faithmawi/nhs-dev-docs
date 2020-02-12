@@ -11,3 +11,9 @@ title: The OIDC login flow
 
  ## Completing Authorization Flow
  NHS login will return an authorization code, which you then use to obtain the ID Token. This is done by making a request to the NHS login token endpoint. The token endpoint requires authentication via private_key_jwt method. The returned ID Token must be validated before it can be used within your service.
+
+ ***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/oidc-login-flow.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done

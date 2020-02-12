@@ -10,3 +10,9 @@ title: How can I test NHS login in my service?
 
  ## Sandpit
  Our sandpit is a deployment of much of the production code, with some elements of the registration process removed e.g. matching to NHS number and checking ID documents.
+
+ ***
+## Want to edit this page?
+1. Click this [link](https://github.com/faithmawi/nhs-dev-docs/blob/master/src/test-login-service.md) 
+2. Then click the edit button in the top right of the document
+3. Make sure you click **Commit changes** when you're done
