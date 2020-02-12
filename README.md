@@ -24,7 +24,7 @@ How to add your own pages, files and contrbutions to this document and a few bas
 
 1. Click on the **src** file
 2. Click the **"Create new file" button** 
-3. Give your file an appropriate making sure to end this name with **.md**
+3. Give your file an appropriate name, making sure to end this name with **.md**
 
 ## Before you start writing
 
@@ -46,7 +46,7 @@ Making sure your document contains this at the very top means that your contribu
 
 -When you click on the file, there should be an edit button in the top right of the document
 
--When you're finished with your changes, make sure you click **Comit changes**
+-When you're finished with your changes, make sure you click **Commit changes**
 
 -Or click **Cancel** if you wish to discard your changes 
 
