@@ -5,9 +5,10 @@ module.exports = function(config) {
   // add support for syntax highlighting
   config.addPlugin(syntaxHighlight);
   // pass some assets right through
-  config.addPassthroughCopy("images");
-  config.addPassthroughCopy("css");
-  config.addPassthroughCopy("js");
+  config.addPassthroughCopy("./src/images");
+  config.addPassthroughCopy("./src/css");
+  config.addPassthroughCopy("./src/js");
+
   return {
     dir: {
       input: "src/",
@@ -17,9 +18,6 @@ module.exports = function(config) {
     templateFormats : [
     "njk", 
     "md",
-    "css",
-    "js",
-    "images",
     "11ty.js"],
     htmlTemplateEngine : "njk",
     markdownTemplateEngine : "njk",
