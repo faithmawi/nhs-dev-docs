@@ -5,9 +5,9 @@ module.exports = function(config) {
   // add support for syntax highlighting
   config.addPlugin(syntaxHighlight);
   // pass some assets right through
-  config.addPassthroughCopy("./src/site/images");
-  config.addPassthroughCopy("./src/static/css");
-  config.addPassthroughCopy("./src/static/js");
+  config.addPassthroughCopy("../../src/site/images");
+  config.addPassthroughCopy("../../src/static/css");
+  config.addPassthroughCopy("../../src/static/js");
   return {
     dir: {
       input: "src/",
