@@ -5,9 +5,9 @@ module.exports = function(config) {
   // add support for syntax highlighting
   config.addPlugin(syntaxHighlight);
   // pass some assets right through
-  config.addPassthroughCopy("../../src/site/images");
-  config.addPassthroughCopy("../../src/static/css");
-  config.addPassthroughCopy("../../src/static/js");
+  config.addPassthroughCopy("/faithmawi.github.io/src/site/images/gp-credentials-diagram.png");
+  config.addPassthroughCopy("/faithmawi.github.io/src/static/css/main.css");
+  config.addPassthroughCopy("/faithmawi.github.io/src/js/main.min.js");
   return {
     dir: {
       input: "src/",
