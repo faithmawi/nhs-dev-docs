@@ -1,28 +1,27 @@
 
-## NHS login Developer's Docs
+# NHS login Developer's Docs
 
 A place to reference, use and contribute to.
 
-## How to use
-
-|Viewing documents                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------|
-|To view the official NHS login documentation page, click [here](https://faithmawi.github.io/).                               |
-|This would be best for those of you who are viewing documentation and would like to view it in an easily navigatable format. |
-
-|Editing or Adding documents                                                                                                  |
-|-----------------------------------------------------------------------------------------------------------------------------|
-|To view the files within this repository, click on the **src** file and then reference the below instructions.               |
-|This would be best for those of you wishing to edit or add your own contributions to these documents.                        |
-
-## A quick reference guide
-
+# A quick reference guide:
 
 How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
 
+## Viewing documents                                                                                                            
+
+To view the official NHS login documentation page, click [here](https://faithmawi.github.io/).   
+
+This would be best for those of you who are viewing documentation and would like to view it in an easily navigatable format. 
+
+## Editing or Adding documents                                                                                                  
+
+To view the files within this repository, click on the **src** file and then reference the below instructions.    
+
+This would be best for those of you wishing to edit or add your own contributions to these documents.                        
+
 ## First steps 
 
-1. Click on the **src** file
+1. Click on the **src** file at the top right of the page
 2. Click the **"Create new file" button** 
 3. Give your file an appropriate name, making sure to end this name with **.md**
 
@@ -50,6 +49,15 @@ Making sure your document contains this at the very top means that your contribu
 
 -Or click **Cancel** if you wish to discard your changes 
 
+## Adding links
+
+When adding links, the correct format is as follows:
+
+```
+[Name of link](www.linkgoeshere.com)
+
+```
+
 ## Basic Text Styling Tips
 
 | Style         | How To                                  |
@@ -58,4 +66,4 @@ Making sure your document contains this at the very top means that your contribu
 |Bold           | ** Double asterix around text **        |
 |Italics | * Single asterix around text *                 |
 |List | - Before each item|
-|Numbered list | 1. 2. 3. etc. Before each item |
+|Numbered list | 1. 2. 3. etc. Before each item           |
