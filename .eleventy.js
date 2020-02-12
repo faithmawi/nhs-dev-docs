@@ -6,7 +6,7 @@ module.exports = function(config) {
   config.addPlugin(syntaxHighlight);
   // pass some assets right through
   config.addPassthroughCopy("/nhs-dev-docs/src/site/images");
-  config.addPassthroughCopy("/nhs-dev-docs/src/static/css/main.css");
+  config.addPassthroughCopy("./src/static/css/main.css");
   config.addPassthroughCopy("/nhs-dev-docs/src/js/main.min.js");
   return {
     dir: {
