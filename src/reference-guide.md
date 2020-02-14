@@ -3,7 +3,7 @@ layout: base.njk
 title: A quick reference guide
 ---
 
- How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
+ How to add your own pages, files and contrbutions to this document and a few basic tips on styling.
 
 ## First steps 
 1. Click [here](https://github.com/faithmawi/nhs-dev-docs) 
