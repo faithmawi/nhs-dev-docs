@@ -7,13 +7,13 @@ A place to reference, use and contribute to.
 
 How to add your own pages, files and contrbutions to this document and a few basics tips on styling.
 
-## Viewing documents                                                                                                            
+## Viewing documents 
 
-To view the official NHS login documentation page, click [here](https://faithmawi.github.io/nhs-dev-docs).   
+To view the official NHS login documentation page, click [here](https://faithmawi.github.io/nhs-dev-docs/).   
 
 This would be best for those of you who are viewing documentation and would like to view it in an easily navigatable format. 
 
-## Editing or Adding documents                                                                                                  
+## Editing or Adding documents
 
 To view the files within this repository, click on the **src** file and then reference the below instructions.    
 
