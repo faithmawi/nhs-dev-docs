@@ -9,7 +9,7 @@ How to add your own pages, files and contrbutions to this document and a few bas
 
 ## Viewing documents                                                                                                            
 
-To view the official NHS login documentation page, click [here](https://faithmawi.github.io/).   
+To view the official NHS login documentation page, click [here](https://faithmawi.github.io/nhs-dev-docs).   
 
 This would be best for those of you who are viewing documentation and would like to view it in an easily navigatable format. 
 
@@ -19,10 +19,11 @@ To view the files within this repository, click on the **src** file and then ref
 
 This would be best for those of you wishing to edit or add your own contributions to these documents.                        
 
-## First steps 
 
-1. Click on the **src** file at the top right of the page
-2. Click the **"Create new file" button** 
+## Creating a new page 
+
+1. Click on the **src** file
+2. Click the **"Create new file" button** at the top right of the page
 3. Give your file an appropriate name, making sure to end this name with **.md**
 
 ## Before you start writing
@@ -41,7 +42,7 @@ title: Your title
 
 Making sure your document contains this at the very top means that your contribution will automatically use the NHS login Docs theme.
 
-## Editing an existing document
+## Editing an existing page
 
 -When you click on the file, there should be an edit button in the top right of the document
 
