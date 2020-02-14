@@ -21,6 +21,7 @@ module.exports = function(config) {
     "11ty.js"],
     htmlTemplateEngine : "njk",
     markdownTemplateEngine : "njk",
-    passthroughFileCopy: true
+    passthroughFileCopy: true,
+    pathPrefix:"/nhs-dev-docs/"
   };
 };
