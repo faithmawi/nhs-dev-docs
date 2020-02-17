@@ -1,5 +1,6 @@
 .mobile-menu {
     padding: 16px 0;
+    display: none
 }
 
 .mobile-menu--open {
