@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <base href="/nhs-dev-docs">
-    <link rel="stylesheet"  href="nhs-dev-docs/css/main.css">
-    <link rel="stylesheet"  href="nhs-dev-docs/css/mobile-menu.css">
+     <link rel="stylesheet"  href="nhs-dev-docs/css/main.css">
+      <link rel="stylesheet"  href="nhs-dev-docs/css/mobile-menu.css">
     <script src="nhs-dev-docs/js/main.min.js" ></script> 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>What is NHS login?</title>
@@ -27,13 +27,16 @@
             </span>
             </a>
           </div>
+          <div class="nhsuk-header__menu">
+            <button class="nhsuk-header__menu-toggle" id="toggle-menu" aria-controls="header-navigation" aria-label="Open menu">Menu</button>
+          </div>
 
           <div class="nhsuk-header__content" id="content-header"></form>
         </div>
       </div>
     </div>
   </div>
-  <nav class="nhsuk-header__navigation mobile-nav" id="header-navigation" role="navigation" aria-label="Primary navigation"
+  <nav class="nhsuk-header__navigation mobile-menu mobile-menu--open" id="header-navigation" role="navigation" aria-label="Primary navigation"
   aria-labelledby="label-navigation">
   <div class="nhsuk-width-container">
     <p class="nhsuk-header__navigation-title"><span id="label-navigation">Menu</span>
@@ -49,7 +52,7 @@
     </p>
     <ul class="nhsuk-header__navigation-list">
       <li>
-        <h2 class="app-side-nav__heading nhsuk-u-padding-left-4">
+        <h2 class="app-side-nav__heading mobile-menu__heading">
           NHS Login
         </h2>
       </li>
@@ -64,9 +67,10 @@
           </svg>
         </a>
       </li>
+
       <li class="nhsuk-header__navigation-item">
-        <a class="nhsuk-header__navigation-link" href="/service-standard">
-          NHS service standard
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/oidc-login-flow">
+          The OIDC login flow
           <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
             aria-hidden="true">
             <path
@@ -75,9 +79,16 @@
           </svg>
         </a>
       </li>
+
+      <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          New to this document?
+        </h2>
+      </li>
+
       <li class="nhsuk-header__navigation-item app-header__navigation-item__item--current">
-        <a class="nhsuk-header__navigation-link" href="/design-system">
-          Design system
+        <a class="nhsuk-header__navigation-link" href="nhs-dev-docs/reference-guide">
+          A quick reference guide
           <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
             aria-hidden="true">
             <path
@@ -86,9 +97,16 @@
           </svg>
         </a>
       </li>
+
+       <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          External Interface Specification
+        </h2>
+      </li>
+
       <li class="nhsuk-header__navigation-item">
-        <a class="nhsuk-header__navigation-link" href="/content">
-          Content style guide
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/interface-spec-doc">
+          Interface Specification Document
           <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
             aria-hidden="true">
             <path
@@ -97,9 +115,16 @@
           </svg>
         </a>
       </li>
+
+      <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          Conformance
+        </h2>
+      </li>
+
       <li class="nhsuk-header__navigation-item">
-        <a class="nhsuk-header__navigation-link" href="/accessibility">
-          Accessibility
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/technical-conformance">
+          Technical Conformance
           <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
             aria-hidden="true">
             <path
@@ -108,9 +133,112 @@
           </svg>
         </a>
       </li>
+
+      <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          Developer Support Information
+        </h2>
+      </li>
+
       <li class="nhsuk-header__navigation-item">
-        <a class="nhsuk-header__navigation-link" href="/community">
-          Community
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/developer-support">
+          Developer Support
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+       <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          GP Credentials
+        </h2>
+      </li>
+
+       <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/gp-credentials-para">
+          Using NHS login to create or retrieve GP credentials
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+      <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/gp-credentials-doc">
+          Scope and processing overview
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+      <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          Button Guidance
+        </h2>
+      </li>
+
+      <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/adding-buttons">
+          Adding the NHS login button to your service
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+      <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          Linking your Service
+        </h2>
+      </li>
+
+      <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/linking-to-settings-para">
+          About linking
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+      <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/linking-to-settings-ppt">
+          Guidance
+          <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+            aria-hidden="true">
+            <path
+              d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+            </path>
+          </svg>
+        </a>
+      </li>
+
+       <li>
+        <h2 class="app-side-nav__heading mobile-menu__heading">
+          Examples
+        </h2>
+      </li>
+
+      <li class="nhsuk-header__navigation-item">
+        <a class="nhsuk-header__navigation-link" href="/nhs-dev-docs/example-oidc">
+          Different implementations and integration of service
           <svg class="nhsuk-icon nhsuk-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
             aria-hidden="true">
             <path
@@ -228,13 +356,21 @@
 <p>enquiries@nhhsdigital.nhs.uk</p>
 <hr>
 <p>0800 303 5678</p>
+<hr>
+<h2>Want to edit this page?</h2>
+<ol>
+<li>Click this <a href="https://github.com/faithmawi/nhs-dev-docs">link</a></li>
+<li>Next, click on the <strong>src</strong> file</li>
+<li>Then click the edit button in the top right of the document</li>
+<li>Make sure you click <strong>Commit changes</strong> when you're done</li>
+</ol>
 
 
      <div class="app-edit-instructions">
               <hr />
               <h2>Want to edit this page?</h2>
               <ol>
-                <li>Click this <a href="https://github.com/faithmawi/nhs-dev-docs/blob/master/./src/index.md">link</a></li>
+                <li>Click this <a href="/blob/gh-pages/">link</a></li>
                 <li>Then click the edit button in the top right of the document</li>
                 <li>Make sure you click <strong>Commit changes</strong> when you're done</li>
               </ol>
@@ -271,6 +407,6 @@
     <div class="nhsuk-width-container"></div>
   </div>
 </footer>
-
+<script src="nhs-dev-docs/js/mobile-menu.js" ></script> 
 </body>
 </html>
