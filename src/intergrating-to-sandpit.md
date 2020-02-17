@@ -50,9 +50,3 @@ Online ID check with video selfie
 
  We don’t tend to approve new registrations in this environment. If you need us to do this please get in touch via slack - see below for joining info.
 
- ***
-## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs)
-2. Next, click on the **src** file
-2. Then click the edit button in the top right of the document
-3. Make sure you click **Commit changes** when you're done

@@ -61,9 +61,3 @@ Currently NHS login provides coverage for GP login credentials as per below:
 ** GP login credentials (linkage keys) for Microtest returned by NHS login are dummy in nature (to maintain the uniform behaviour of the service). These GP login credentials cannot be used by RPS for connecting to Microtest. 
 
 
-***
-## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs)
-2. Next, click on the **src** file
-2. Then click the edit button in the top right of the document
-3. Make sure you click **Commit changes** when you're done

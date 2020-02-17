@@ -29,9 +29,3 @@ The links below contain examples of different implementations and integrations o
 [Sample NodeJS Webclient](https://github.com/rikitikitaco/nhs-login-nodejs-example)
 
 
-***
-## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs)
-2. Next, click on the **src** file
-2. Then click the edit button in the top right of the document
-3. Make sure you click **Commit changes** when you're done

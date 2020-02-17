@@ -47,9 +47,3 @@ When adding links, the correct format is as follows:
 |List           | - Before each item                      |
 |Numbered list  | 1. 2. 3. etc. Before each item          |
 
-***
-## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs)
-2. Next, click on the **src** file
-2. Then click the edit button in the top right of the document
-3. Make sure you click **Commit changes** when you're done

@@ -12,9 +12,3 @@ title: GP Credentials
  
  Use the [NHS login GPIC presentation](https://github.com/nhsconnect/nhslogin/raw/master/NHSlogin%20GPIC%20v1.0.pptx) for guidance on this.
 
- ***
-## Want to edit this page?
-1. Click this [link](https://github.com/faithmawi/nhs-dev-docs)
-2. Next, click on the **src** file
-2. Then click the edit button in the top right of the document
-3. Make sure you click **Commit changes** when you're done
