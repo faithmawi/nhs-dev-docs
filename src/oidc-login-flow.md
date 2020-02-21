@@ -16,5 +16,5 @@ title: The OIDC login flow
  The first step involves the client sending a request to NHS login with the desired parameters. These include your identifying information, such as client_id, and scopes, which will ultimately determine the returned claims.
 
  ## Completing authorisation Flow
- NHS login will return an authorisation code, which you then use to obtain the ID Token. This is done by making a request to the NHS login token endpoint. The token endpoint requires authentication via private_key_jwt [method]https://openid.net/specs/openid-connect-core-1_0.html#ClientAuthentication. The returned ID Token must be validated before it can be used within your service.
+ NHS login will return an authorisation code, which you then use to obtain the ID Token. This is done by making a request to the NHS login token endpoint. The token endpoint requires authentication via private_key_jwt [method](https://openid.net/specs/openid-connect-core-1_0.html#ClientAuthentication). The returned ID Token must be validated before it can be used within your service.
 
