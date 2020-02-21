@@ -9,10 +9,10 @@ By integrating NHS login to your website or app you can offer users self-service
 NHS login is based on OpenID Connect (OIDC), which is an open standard. You can find out more about our use of OIDC by reading the external interface specification (EIS).
 
 ## Contact Us
-***
-www.digital.nhs.uk
-***
- enquiries@nhhsdigital.nhs.uk
-***
-0800 303 5678
+
+- www.digital.nhs.uk
+
+- enquiries@nhhsdigital.nhs.uk
+
+- 0800 303 5678
 
